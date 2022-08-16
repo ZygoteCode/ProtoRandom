@@ -1,0 +1,10 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ProtoRandom\bin\Release\ProtoRandom.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ProtoRandom\obj\Release\ProtoRandom.csproj.AssemblyReference.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ProtoRandom\obj\Release\ProtoRandom.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ProtoRandom\obj\Release\ProtoRandom.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ProtoRandom\bin\Release\ProtoRandom.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ProtoRandom\obj\Release\ProtoRandom.csproj.AssemblyReference.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ProtoRandom\obj\Release\ProtoRandom.csproj.CoreCompileInputs.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ProtoRandom\obj\Release\ProtoRandom.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ProtoRandom\bin\Release\ProtoRandom.pdb
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ProtoRandom\obj\Release\ProtoRandom.pdb
